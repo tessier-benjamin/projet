@@ -1,1 +1,21 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Listcontacts>
+    <Listcontacts id="0">
+        <nom>Jonathan</nom>
+        <prenom>Degardin</prenom>
+        <email>Jonathan.degardin@edu.itescia.fr</email>
+        <Birthday>07/09/2000</Birthday>
+    </Listcontacts>
+    <Listcontacts id="1">
+        <nom>Benjamin</nom>
+        <prenom>Tessier</prenom>
+        <email>Benjamin.tessier@edu.itescia.fr</email>
+        <Birthday>02/12/2000</Birthday>
+    </Listcontacts>
+    <Listcontacts id="2">
+        <nom>Guillaume</nom>
+        <prenom>Norgol</prenom>
+        <email>Guillaume.Norgol@edu.itescia.fr</email>
+        <Birthday>18/03/2000</Birthday>
+    </Listcontacts>
+</Listcontacts>

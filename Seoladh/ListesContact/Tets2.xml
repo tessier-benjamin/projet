@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Listcontacts>
+    <Listcontacts id="0">
+        <nom>aaaa</nom>
+        <prenom>aaaaaaa</prenom>
+        <email>aaaaaaaadedezaaaaaaaaaaz@edu.itescia.fr</email>
+        <Birthday>aaaaaa</Birthday>
+        <Titreautre>new</Titreautre>
+        <Detailautre>kk</Detailautre>
+        <Titreautre2>12</Titreautre2>
+        <Detailautre2>kk</Detailautre2>
+    </Listcontacts>
+    <Listcontacts id="1">
+        <nom>dd</nom>
+        <prenom>fezafezfa</prenom>
+        <email>duehyudhzhdzaaz@edu.itescia.fr</email>
+        <Birthday>fezfezez</Birthday>
+        <Titreautre>new</Titreautre>
+        <Detailautre>kkk</Detailautre>
+        <Titreautre2>12</Titreautre2>
+        <Detailautre2>fzfzefze</Detailautre2>
+    </Listcontacts>
+    <Listcontacts id="2">
+        <nom>geegre</nom>
+        <prenom>faezefz</prenom>
+        <email>fzjfkozklmfzfezaaz@edu.itescia.fr</email>
+        <Birthday>zefzefezfez</Birthday>
+        <Titreautre>new</Titreautre>
+        <Detailautre>fezafafe</Detailautre>
+        <Titreautre2>12</Titreautre2>
+        <Detailautre2>zffzefzczs</Detailautre2>
+    </Listcontacts>
+</Listcontacts>
